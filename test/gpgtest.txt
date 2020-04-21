@@ -1,3 +1,5 @@
+#!/bin/bash
+ls
+echo "abc"
+echo ${secrets.test}
 
-angouka
-sarenaizo!?
